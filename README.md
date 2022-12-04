@@ -16,4 +16,17 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # Screenshots
-- [loadingscreen](https://docs.flutter.dev/cookbook)
+<h1> Loadingscreen </h1>
+<p float="left">
+  <img src="https://github.com/mrunali8975/world_time_flutter/blob/master/Screenshots/Screenshot_20221204_171119.png" width = 200/>
+</p>
+
+<h1> Homescreen </h1>
+<p float="left">
+  <img src="https://github.com/mrunali8975/world_time_flutter/blob/master/Screenshots/Screenshot_20221204_171151.png" width = 200/>
+</p>
+
+<h1> Choose Location </h1>
+<p float="left">
+  <img src="https://github.com/mrunali8975/world_time_flutter/blob/master/Screenshots/Screenshot_20221204_171209.png" width = 200/>
+</p>
